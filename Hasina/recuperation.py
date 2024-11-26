@@ -1,3 +1,4 @@
+#declaration
 nom1=str(input("saisir premiere nom: "))
 nom2=str(input("saisir deuxieme nom: "))
 n=len(nom1)
